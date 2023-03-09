@@ -1,3 +1,7 @@
+/*
+TIME COMPLEXITY WILL BE O(a)
+SPACE COMPLEXITY WILL BE O(26) --> O(1) that is constant times
+*/
 import java.util.* ;
 import java.io.*; 
 public class Solution {
